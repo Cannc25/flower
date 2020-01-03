@@ -1,0 +1,19 @@
+h1 {
+  color:blue;
+  background-color: lightgreen;
+  font-family: cursive;
+  text-align: center;
+}
+.intor {
+  color: gray;
+  font-family: geogria;
+  text-align: justify;
+}
+.author {
+  font-family: "monotype corsiva";
+  color: violet;
+  text-align: right;
+}
+.caption {
+  color: purple;
+}
